@@ -2,7 +2,7 @@
 [arXiv](https://arxiv.org/abs/2302.01530) | [EACL](https://aclanthology.org/2023.findings-eacl.12/) | [Slide](https://www.slideshare.net/JongwooKo1/slidespdf-257169659) | [Code](https://github.com/jongwooko/CR-ILD)
 
 
-[**Revisiting Intermediate Layer Distillation for Compressing Language Models: An Overfitting Perspective**](https://arxiv.org/abs/2303.11101)<br/>
+[**Revisiting Intermediate Layer Distillation for Compressing Language Models: An Overfitting Perspective**](https://arxiv.org/abs/2302.01530)<br/>
 [Jongwoo Ko](https://sites.google.com/view/jongwooko),
 Seungjoon Park,
 Minchan Jeong,
